@@ -17,7 +17,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: 'index.html',
       filename: 'index.html',
-      title: 'Amortization Calculator',
+      title: 'Payment Calculator',
       inject: 'body'
     }),
     new webpack.DefinePlugin({

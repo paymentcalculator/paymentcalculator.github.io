@@ -3,10 +3,10 @@ import React from 'react';
 const Header = () => (
   <div className="main-app-nav">
     <div>
-     Amortization Calculator
+     Payment Calculator
     </div>
     <div className="tagline">
-      Amortization Schedule for mortgages and other loans
+      Payment Amortization Schedule for Mortgages and Other Loans
     </div>
   </div>
 );
